@@ -1,12 +1,7 @@
 pandas
 numpy
-matplotlib
 seaborn
 scikit-learn
-xgboost
-lightgbm
-catboost
 joblib
 flask
-streamlit
 gunicorn
